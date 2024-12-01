@@ -12,7 +12,7 @@ public static void main (String[] args){
         System.exit(0);
         
     }
-    double a,b;
+    public double a,b;
     a=Double.parseDouble(args[0]);
     b=Double.parseDouble(args[1]);
 
